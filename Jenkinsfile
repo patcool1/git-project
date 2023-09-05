@@ -10,7 +10,7 @@ pipeline{
         }
         stage('clean artifact'){
             steps{
-                sh 'hi you'
+                sh 'hello test'
             }
         }
     }
